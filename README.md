@@ -4,7 +4,7 @@ I've always had a deep interest in real estate and aspire to purchase a property
 
 **Objective:**
 
-Data visualization and dashboarding was implemented on this dataset using **Tableau**.
+Data visualization and dash-boarding was implemented on this dataset using **Tableau**.
 
 **Questions we answered from our data visualization:**
 
